@@ -1,0 +1,16 @@
+{
+	"name" : "Internal Link Scope",
+	"slug" : "internal-link-scope",
+	"author" : "<a href='https://markpruett.com'>Mark Pruett</a>",
+	"version" : "0.2",
+	"download_url" : "https://github.com/markpruett571/ils-public/releases/v1.1.0/internal-link-scope.zip",
+	"requires" : "6.3",
+	"tested" : "6.3",
+	"requires_php" : "7.4",
+  "homepage" : "https://markpruett.com/internal-link-scope",
+	"sections" : {
+    "description" : "Analyze the internal link structure of your posts.",
+    "installation" : "Activate the plugin.",
+		"changelog" : "Lots of stuff. Beta testing"
+	}
+}
