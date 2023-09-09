@@ -3,7 +3,7 @@
 	"slug" : "internal-link-scope",
 	"author" : "<a href='https://markpruett.com'>Mark Pruett</a>",
 	"version" : "0.2",
-	"download_url" : "https://github.com/markpruett571/ils-public/releases/v1.1.0/internal-link-scope.zip",
+	"download_url" : "https://github.com/markpruett571/ils-public/raw/main/plugin/v0.2/internal-link-scope.zip",
 	"requires" : "6.3",
 	"tested" : "6.3",
 	"requires_php" : "7.4",
