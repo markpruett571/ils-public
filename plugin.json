@@ -4,8 +4,8 @@
 	"author" : "<a href='https://markpruett.com'>Mark Pruett</a>",
 	"version" : "0.2",
 	"download_url" : "https://github.com/markpruett571/ils-public/raw/main/plugin/v0.2/internal-link-scope.zip",
-	"requires" : "6.3",
-	"tested" : "6.3",
+	"requires" : "6.0.0",
+	"tested" : "6.3.1",
 	"requires_php" : "7.4",
   "homepage" : "https://markpruett.com/internal-link-scope",
 	"sections" : {
